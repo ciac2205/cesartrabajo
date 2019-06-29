@@ -1,0 +1,13 @@
+
+
+
+.navbar{
+    background-color: red;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: blue;
+}
+.breadcrumb{
+    background-color: #007bff;
+}
